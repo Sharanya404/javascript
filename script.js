@@ -78,6 +78,7 @@ function getData(){
     else
     document.getElementById("eligibility").value="Not eligible to vote";
 }
+// This is a comment
 function removeData(){
     document.getElementById("name").value=null;
     document.getElementById("email").value=null;
